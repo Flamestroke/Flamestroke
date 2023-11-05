@@ -36,4 +36,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>  
 </p>
 
-![Snake animation](https://github.com/Flamestroke/Flamestroke/blob/output/github-contribution-grid-snake.svg)
+![Flamestroke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flamestroke&show_icons=true&theme=radical)
