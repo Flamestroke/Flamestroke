@@ -37,3 +37,4 @@
 </p>
 
 ![Flamestroke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flamestroke&show_icons=true&theme=radical)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flamestroke&layout=compact&theme=radical)
