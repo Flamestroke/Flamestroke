@@ -1,6 +1,6 @@
 ### Konnichiwa 👋 
-![](https://github.com/Flamestroke/deku.gif)
-##I'm Archit Gupte
+![](https://github.com/Flamestroke/Flamestroke/blob/main/deku.gif)
+## I'm Archit Gupte
 ## An enthusiastic Web developer.
 
 
