@@ -1,4 +1,6 @@
-### Konnichiwa 👋, I'm Archit Gupte
+### Konnichiwa 👋 
+![](https://github.com/Flamestroke/deku.gif)
+##I'm Archit Gupte
 ## An enthusiastic Web developer.
 
 
