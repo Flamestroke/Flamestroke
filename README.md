@@ -35,3 +35,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="maya" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>  
 </p>
+
+![Snake animation](https://github.com/Flamestroke/Flamestroke/blob/output/github-contribution-grid-snake.svg)
