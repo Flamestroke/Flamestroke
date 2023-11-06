@@ -4,7 +4,7 @@
 ## :desktop_computer: An enthusiastic Web developer.
 
 - <p><h4>🔭 Currently working on</h4> <a href="https://github.com/Vibehav/campusConcerns" target="_blank">
-  <img height="40" src="https://github.com/Flamestroke/Flamestroke/blob/main/cc.png"/></a></h4>p
+  <img height="40" src="https://github.com/Flamestroke/Flamestroke/blob/main/cc.png"/></a></p>
 - 🌱 Currently learning **AR based Web Design**
 - 💬 Ask me about **PHP**, **AR/VR**, **React.JS**
 - ♥️ Hobbies: Love to talk about<a href="https://www.formula1.com/en/teams.html" target="_blank">
