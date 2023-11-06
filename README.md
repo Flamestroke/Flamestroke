@@ -1,6 +1,6 @@
 ### Konnichiwa 👋 
 ![](https://github.com/Flamestroke/Flamestroke/blob/main/deku.gif)
-## I'm Archit Gupte
+## I'm Archit Gupte aka Flamestroke
 ## :desktop_computer: An enthusiastic Web developer.
 
 - 🔭 Currently working on <a href="https://github.com/Vibehav/campusConcerns" target="_blank">
