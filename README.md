@@ -4,9 +4,13 @@
 ## An enthusiastic Web developer.
 
 - 🔭 Currently working on [Campus Concerns]
+  
 - 🌱 Currently learning **AR based Web Design**
+  
 - 💬 Ask me about **PHP**, **AR/VR**, **React.JS**
-- 📫 How to reach me: **guptearchit@gmail.com**  
+  
+- 📫 How to reach me: **guptearchit@gmail.com**
+   
 - ⚡ Fun fact: I also like to create 3d Models of cars
   <a href="https://sketchfab.com/Flamestroke" target="_blank">
   <img height="50" src="https://static.sketchfab.com/img/press/logos/sketchfab-logo-white.png"/>
