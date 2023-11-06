@@ -9,7 +9,7 @@
 - 📫 How to reach me: **guptearchit@gmail.com**
 - ⚡ Fun fact: I also like to create 3d Models of cars
   <a href="https://sketchfab.com/Flamestroke" target="_blank">
-  <img height="10" src="https://static.sketchfab.com/img/press/logos/sketchfab-logo-white.png"/>
+  <img height="20" src="https://static.sketchfab.com/img/press/logos/sketchfab-logo-white.png"/>
   </a>
 
 <h2> 🚀 &nbsp;Some Tools which I Use and am Learning</h2>
