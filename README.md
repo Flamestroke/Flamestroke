@@ -42,5 +42,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>  
 </p>
 
-![Flamestroke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flamestroke&show_icons=true&theme=radical)
+
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flamestroke&layout=compact&theme=radical)
