@@ -6,6 +6,7 @@
 - 🔭 Currently working on [Campus Concerns]
 - 🌱 Currently learning **AR based Web Design**
 - 💬 Ask me about **PHP**, **AR/VR**, **React.JS**
+- ♥️ Hobbies: Love to talk about F1 :racing_car:
 - 📫 How to reach me: **guptearchit@gmail.com**
 - ⚡ Fun fact: I also like to create 3d Models of cars: 
   <a href="https://sketchfab.com/Flamestroke" target="_blank">
