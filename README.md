@@ -3,7 +3,7 @@
 ## I'm Archit Gupte
 ## :desktop_computer: An enthusiastic Web developer.
 
-- <h2>🔭 Currently working on<h2> <a href="https://github.com/Vibehav/campusConcerns" target="_blank">
+- <h4>🔭 Currently working on<h4> <a href="https://github.com/Vibehav/campusConcerns" target="_blank">
   <img height="20" src="https://github.com/Flamestroke/Flamestroke/blob/main/cc.png"/></a>
 - 🌱 Currently learning **AR based Web Design**
 - 💬 Ask me about **PHP**, **AR/VR**, **React.JS**
