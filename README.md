@@ -8,8 +8,8 @@
 - 💬 Ask me about **PHP**, **AR/VR**, **React.JS**
 - ♥️ Hobbies: Love to talk about F1 <a href="https://sketchfab.com/Flamestroke" target="_blank">
   <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png"/>
-  </a>, Play a Lot of <a href="https://sketchfab.com/Flamestroke" target="_blank">
-  <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Rocket_League_logo.svg/1280px-Rocket_League_logo.svg.png"/>
+  </a> And Play a Lot of <a href="https://sketchfab.com/Flamestroke" target="_blank">
+  <img height="15" src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo/eb3cee21198139fa6a21866d764cc4b8.png"/>
   </a>
 - 📫 How to reach me: **guptearchit@gmail.com**
 - ⚡ Fun fact: I also like to create 3d Models of cars: 
