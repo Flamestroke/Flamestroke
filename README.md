@@ -17,7 +17,6 @@
   <a href="https://sketchfab.com/Flamestroke" target="_blank">
   <img height="15" src="https://static.sketchfab.com/img/press/logos/sketchfab-logo-text.png"/>
   </a>
-  ![Visitor Count](https://profile-counter.glitch.me/{Flamestroke}/count.svg)
 
 <h2> 🚀 &nbsp;Some Tools which I Use and am Learning</h2>
 <p align="left">
