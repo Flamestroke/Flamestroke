@@ -7,7 +7,7 @@
   <img height="20" src="https://github.com/Flamestroke/Flamestroke/blob/main/cc.png"/></a>
 - 🌱 Currently learning **AR based Web Design**
 - 💬 Ask me about **PHP**, **AR/VR**, **React.JS**
-- ♥️ Hobbies: Love to talk about<a href="https://www.formula1.com/en/teams.html" target="_blank">
+- ♥️ Hobbies: Love to talk about<a href="https://www.formula1.com/" target="_blank">
   <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png"/>
   </a> And Play a Lot of <a href="https://www.rocketleague.com/" target="_blank">
   <img height="15" src="https://cdn.freebiesupply.com/logos/large/2x/rocket-league-logo-png-transparent.png"/>
