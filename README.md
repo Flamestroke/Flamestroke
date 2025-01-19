@@ -3,7 +3,7 @@
 ## I'm Archit Gupte aka Flamestroke
 ## :desktop_computer: An enthusiastic Web developer.
 
-- 🔭 Currently working on <a href="https://campusconcerns.live" target="_blank">
+- 🔭 Currently working on <a href="https://vppcoe.campusconcerns.in/" target="_blank">
   <img height="20" src="https://github.com/Flamestroke/Flamestroke/blob/main/cc.png"/></a>
 - 🌱 Currently learning **AR based Web Design**
 - 💬 Ask me about **PHP**, **AR/VR**, **React.JS**
